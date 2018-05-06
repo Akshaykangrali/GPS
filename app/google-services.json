@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "366529203703",
+    "firebase_url": "https://gpsloctionfortravellers.firebaseio.com",
+    "project_id": "gpsloctionfortravellers",
+    "storage_bucket": "gpsloctionfortravellers.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:366529203703:android:6351f9f0ab806b01",
+        "android_client_info": {
+          "package_name": "com.example.mhodinshamadari.gpslocationfortravellers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "366529203703-0vtodr1u56t9nkj1hua409l1jmsbnhdh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mhodinshamadari.gpslocationfortravellers",
+            "certificate_hash": "0fc497e40fbbcec6616b17aaa9c43974b9fc7236"
+          }
+        },
+        {
+          "client_id": "366529203703-v8bmf8rg06ll8gqqqh7mhtijc2ogcrqd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCs6-mL0RUpHcKIZz7ndtM-TB7Wft4EYA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "366529203703-v8bmf8rg06ll8gqqqh7mhtijc2ogcrqd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

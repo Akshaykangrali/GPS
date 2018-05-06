@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">GPSLocationforTravellers</string>
+    <string name="title_activity_main2">Main2Activity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="provide_phone_no_with_country_code">Provide Phone no. with Country code</string>
+    <string name="add_members_here">add members here</string>
+    <string name="otp_here">OTP Here ...</string>
+    <string name="provide_otp_in_below_text_area_to_verify">Provide OTP in below text area to verify</string>
+    <string name="verify">Verify</string>
+    <string name="phone_no">Phone No.</string>
+    <string name="send_otp">Send OTP</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="enter_your_name">enter your name</string>
+    <string name="thank_you">Thank you</string>
+    <string name="save">save</string>
+
+    <string name="add_members">add_members</string>
+
+    <string name="about">about</string>
+    <string name="feedback">feedback</string>
+    <string name="thank_you_for_your_feedback_it_is_presious_to_us_and_we_will_get_back_to_you_soon">Thank you for your feedback.It is presious to us and we will get back to you soon</string>
+    <string name="your_feedback_is_appriciated_so_go_back_and_relax">Your feedback is appriciated so go back and relax</string>
+    <string name="write_your_feedbacks_here">write your feedbacks here</string>
+    <string name="title_activity_bottom">BottomActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+</resources>
