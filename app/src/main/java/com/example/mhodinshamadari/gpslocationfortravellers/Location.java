@@ -109,15 +109,6 @@ public class Location extends AppCompatActivity implements View.OnClickListener,
         databaseReference.child(user.getPhoneNumber()).child("lat").setValue(lattitude);
         databaseReference.child(user.getPhoneNumber()).child("lng").setValue(longitude);
 
-
-
-
-
-
-
-
-
-
     }
 
     @Override

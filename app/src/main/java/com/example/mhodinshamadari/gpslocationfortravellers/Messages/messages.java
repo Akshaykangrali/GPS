@@ -39,7 +39,7 @@ public class messages extends AppCompatActivity implements View.OnClickListener{
         setContentView(R.layout.activity_messages);
         emsg = findViewById(R.id.etmsg);
         msg_btn = findViewById(R.id.msg_btn);
-        FirebaseUser user = firebaseAuth.getCurrentUser();
+        FirebaseUser user = FirebaseAuth.getInstance().getCurrentUser();
 
       //  Bundle extras = getIntent().getExtras();
         mUsername = user.getPhoneNumber();
